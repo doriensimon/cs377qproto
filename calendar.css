@@ -7,4 +7,12 @@
   padding: 20px;
   font-size: 30px;
   text-align: center;
+  margin: 10px;
 }
+
+.filter {
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
